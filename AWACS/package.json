@@ -1,0 +1,9 @@
+{
+  "name": "awacs",
+  "version": "0.0.0",
+  "description": "AWACS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
